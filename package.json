@@ -1,11 +1,14 @@
 {
-  "name": "platzi-badges", "homepage":"https://webins.github.io/PlatziConfReact/:"
-, "version": "0.1.0",
+  "name": "platzi-badges",
+  "homepage": "https://webins.github.io/PlatziConfReact/:",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "npm-run-all -p client server",
     "client": "react-scripts start",
- "predeploy": "npm run build", "deploy": "gh-pages -d build",  "server": "json-server --port 3001 --watch server/db.json",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "server": "json-server --port 3001 --watch server/db.json",
     "seed": "node server/seed.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
