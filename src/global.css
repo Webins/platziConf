@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
-@import url('https://fonts.googleapis.com/css?family=Anton');
-
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Anton");
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -8,12 +7,16 @@
 }
 
 body {
-  font-family: 'Lato', 'Helvetica Neue', sans-serif;
-  background-color: #F4F4F7;
+  font-family: "Lato", "Helvetica Neue", sans-serif;
+  background-color: #f4f4f7;
+  height: 100%;
+}
+body::-webkit-scrollbar {
+  display: hidden;
 }
 
 h1 {
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
 }
 
 a.link-unstyled {
@@ -31,20 +34,20 @@ a.link-unstyled:hover {
 
 .btn.btn-primary {
   color: #fff;
-  background-color: #7DCD40;
-  border-color: #7DCD40;
+  background-color: #7dcd40;
+  border-color: #7dcd40;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):hover {
   color: #fff;
-  background-color: #7DCD40;
-  border-color: #7DCD40;
+  background-color: #7dcd40;
+  border-color: #7dcd40;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):active {
   color: #fff;
-  background-color: #7DCD40;
-  border-color: #7DCD40;
+  background-color: #7dcd40;
+  border-color: #7dcd40;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):focus {
@@ -53,20 +56,20 @@ a.link-unstyled:hover {
 
 .btn.btn-danger {
   color: #fff;
-  background-color: #CD4040;
-  border-color: #CD4040;
+  background-color: #cd4040;
+  border-color: #cd4040;
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):hover {
   color: #fff;
-  background-color: #CD4040;
-  border-color: #CD4040;
+  background-color: #cd4040;
+  border-color: #cd4040;
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):active {
   color: #fff;
-  background-color: #CD4040;
-  border-color: #CD4040;
+  background-color: #cd4040;
+  border-color: #cd4040;
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):focus {

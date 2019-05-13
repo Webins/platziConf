@@ -1,10 +1,10 @@
-import React from 'react';
-import './styles/BadgeDetail.css';
-import PageLoading from '../components/PageLoading';
-import api from '../api';
-import NotFound from '../components/NotFound';
-import '../components/styles/PageLoading.css';
-import BadgeDetail from './BadgeDetail';
+import React from "react";
+import "./styles/BadgeDetail.css";
+import PageLoading from "../components/PageLoading";
+import api from "../api";
+import NotFound from "../components/NotFound";
+import "../components/styles/PageLoading.css";
+import BadgeDetail from "./BadgeDetail";
 
 class BadgeDetailContainer extends React.Component {
   constructor(props) {
@@ -13,7 +13,7 @@ class BadgeDetailContainer extends React.Component {
       loading: true,
       error: null,
       data: [],
-      modalIsopen: false,
+      modalIsopen: false
     };
   }
 
@@ -28,7 +28,7 @@ class BadgeDetailContainer extends React.Component {
     try {
       await api.badges.remove(this.props.match.params.badgeId);
       this.setState({ loading: false });
-      this.props.history.push('/badges');
+      this.props.history.push("/badges");
     } catch (error) {
       this.setState({ loading: false, error: true });
     }
