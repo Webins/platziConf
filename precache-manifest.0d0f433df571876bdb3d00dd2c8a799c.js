@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75c14b7d9853289b33f69278c4ad71ca",
+    "revision": "4bce32b2c3fb960a9e41dd7d681556d2",
     "url": "/platziConf/index.html"
   },
   {
