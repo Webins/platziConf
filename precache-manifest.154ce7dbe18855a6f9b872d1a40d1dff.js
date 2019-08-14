@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "787fb7931e062b9efe791bb0b7042669",
+    "revision": "75c14b7d9853289b33f69278c4ad71ca",
     "url": "/platziConf/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/platziConf/static/css/2.0f7a873c.chunk.css"
   },
   {
-    "revision": "20c800bee7c05fc4f380",
+    "revision": "473170535b8c0dda3971",
     "url": "/platziConf/static/css/main.de458e2f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/platziConf/static/js/2.e6a383ef.chunk.js"
   },
   {
-    "revision": "20c800bee7c05fc4f380",
-    "url": "/platziConf/static/js/main.6184253a.chunk.js"
+    "revision": "473170535b8c0dda3971",
+    "url": "/platziConf/static/js/main.651bf944.chunk.js"
   },
   {
     "revision": "bcd477eb5604d7c45d3a",

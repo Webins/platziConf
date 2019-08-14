@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/platziConf/static/css/main.de458e2f.chunk.css",
-    "main.js": "/platziConf/static/js/main.6184253a.chunk.js",
-    "main.js.map": "/platziConf/static/js/main.6184253a.chunk.js.map",
+    "main.js": "/platziConf/static/js/main.651bf944.chunk.js",
+    "main.js.map": "/platziConf/static/js/main.651bf944.chunk.js.map",
     "runtime~main.js": "/platziConf/static/js/runtime~main.d9a22632.js",
     "runtime~main.js.map": "/platziConf/static/js/runtime~main.d9a22632.js.map",
     "static/css/2.0f7a873c.chunk.css": "/platziConf/static/css/2.0f7a873c.chunk.css",
     "static/js/2.e6a383ef.chunk.js": "/platziConf/static/js/2.e6a383ef.chunk.js",
     "static/js/2.e6a383ef.chunk.js.map": "/platziConf/static/js/2.e6a383ef.chunk.js.map",
     "index.html": "/platziConf/index.html",
-    "precache-manifest.ce2d5951763f20e38d7722c4b71274d5.js": "/platziConf/precache-manifest.ce2d5951763f20e38d7722c4b71274d5.js",
+    "precache-manifest.154ce7dbe18855a6f9b872d1a40d1dff.js": "/platziConf/precache-manifest.154ce7dbe18855a6f9b872d1a40d1dff.js",
     "service-worker.js": "/platziConf/service-worker.js",
     "static/css/2.0f7a873c.chunk.css.map": "/platziConf/static/css/2.0f7a873c.chunk.css.map",
     "static/css/main.de458e2f.chunk.css.map": "/platziConf/static/css/main.de458e2f.chunk.css.map",
